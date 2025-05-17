@@ -112,7 +112,7 @@ AR 인터페이스의 확장 가능성까지 탐색한 **개인 연구형 프로
 > – 태국 교사, 이메일 인용
 
 <p align="center">
-  <img src="image/thaischool1.png" width="300"/>
+  <img src="image/thaischool1.png" width="600"/>
   <img src="image/thaischool2.png" width="300"/>
 </p>
 

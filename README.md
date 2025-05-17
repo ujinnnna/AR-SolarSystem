@@ -20,7 +20,7 @@
 앱 실행 시 아래와 같은 **웰컴 이미지를 통해 기능 소개**가 제공됩니다.
 
 <p align="center">
-  <img src="images/welcomeinfo.png" width="400"/>
+  <img src="image/welcomeui.png" width="600"/>
 </p>
 
 ---
@@ -40,7 +40,7 @@
 - 추가로 **두 계층의 소행성대**가 구성되어 있으며, 시각적으로 밀도감 있게 표현됩니다.
 
 <p align="center">
-  <img src="images/solarsystem.png" width="400"/>
+  <img src="image/solarsystem.png" width="600"/>
 </p>
 
 ---
@@ -51,7 +51,7 @@
 - **달은 지구 주위를 공전하도록 별도로 처리**되며, 궤도의 폭 조절을 통해 입체감을 더했습니다.
 
 <p align="center">
-  <img src="images/moonorbit.png" width="400"/>
+  <img src="image/moonorbit.png" width="600"/>
 </p>
 
 ---
@@ -62,7 +62,7 @@
 - 버튼 클릭 시 **행성 이름, 특징, 설명**이 포함된 Info UI가 팝업됩니다.
 
 <p align="center">
-  <img src="images/infoui.png" width="400"/>
+  <img src="image/infoui.png" width="600"/>
 </p>
 
 ---
